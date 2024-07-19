@@ -1,0 +1,48 @@
+.container{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   align-content: center;
+  
+   height: 900px;
+}
+
+
+
+body {
+    text-align: center;
+    background-color: aqua;
+  }
+  
+  h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-shadow:  1px 1px 2px #333;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #mensaje {
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  p, h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
