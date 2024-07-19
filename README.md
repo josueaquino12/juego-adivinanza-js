@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Link al curso completo de Javascript en Youtube:
 [VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
 
@@ -62,3 +63,7 @@ Si el número ingresado es válido, se compara con el número generado aleatoria
 6.  Si adivinas correctamente, el campo de entrada se deshabilitará y se mostrará un mensaje de felicitación.
 
 ¡Diviértete jugando y practicando tus habilidades en Javascript!
+=======
+# juego-adivinanza-js
+Juego de adivinanza creado con JS 
+>>>>>>> 8d749ee84b4d8978f00d8c468a9b6dbee8a6d2a8
